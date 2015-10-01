@@ -1,7 +1,7 @@
 mirror-repo-ck
 ==============
 
-Notice: This mirror is not publicly available anymore at the repository owners' request.
+Warning: If you are using Debian, lzma is required! You may have to recompile python 3.4.
     
 ## Tooling for mirroring Arch repositories
 
